@@ -1,0 +1,21 @@
+.wordleTitle{
+    font-family: 'Raleway', sans-serif;    text-align: center;
+    margin: 10px;
+    font-size: 60px;
+}
+.charecterSquare{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    color: #3a3a3c;
+    border: 1.5px #3a3a3c solid;
+    margin: 4px !important;
+    padding: 0 !important;
+
+}
+.niceText{
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 25px;
+}
